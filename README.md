@@ -1,2 +1,2 @@
 # NMS
-Network Monitoring System
+Network Management System
